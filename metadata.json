@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "avm-res-insights-privatelinkscope",
+  "moduleDescription": "Intended AVM Terraform resource module for Microsoft.Insights/privateLinkScopes.",
+  "canonicalType": "Microsoft.Insights/privateLinkScopes",
+  "owners": [],
+  "telemetryIdPrefix": "46d3xtrf.res.cc41c42"
+}
