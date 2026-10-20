@@ -1,3 +1,3 @@
-# terraform-azurerm-avm-template
+# Insights Private Link Scope
 
-This is a template repo for Terraform Azure Verified Modules.
+AVM Terraform resource module for Insights Private Link Scope.
